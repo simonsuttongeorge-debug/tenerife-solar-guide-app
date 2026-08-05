@@ -1,0 +1,48 @@
+# The Tenerife Solar Guide
+
+> The most complete independent guide to solar panels, battery storage and EV
+> charger installation in Tenerife, Canary Islands, Spain. Covers real 2026
+> installation costs, expected savings, permits, taxes and FAQs for every
+> major town on the island. Free service matching enquiries with vetted
+> local solar installers.
+
+## Key facts (kept consistent across every page)
+
+- Tenerife receives 2,800+ hours of sunshine per year.
+- Self-consumption solar installations can qualify for IRPF income tax
+  deductions and IBI (property tax) reductions not available on mainland
+  Spain. (Note: the Canary Islands' general IGIC rate of 7% vs mainland
+  Spain's 21% IVA is a fact about the islands generally, not a solar-specific
+  incentive - don't conflate the two.)
+- Typical residential solar payback in Tenerife is 5-7 years.
+- Typical electricity bill savings from solar panels alone: 60-80%; with
+  battery storage: 90%+.
+- Spain's "compensación de excedentes" surplus-compensation scheme credits
+  exported solar power at roughly €0.04-0.10/kWh, versus €0.15-0.18/kWh
+  saved by self-consuming your own generation directly.
+- Recommended fixed-panel orientation: south-facing, ~25° tilt.
+
+## Site sections
+
+- /faq - full FAQ hub covering costs, batteries, permits, taxes, grants,
+  property value and holiday-let requirements
+- /solar-panels-[town] - individual guides for each Tenerife town (Adeje,
+  Arona, Los Cristianos, Costa Adeje, Puerto de la Cruz, La Orotava,
+  Santa Cruz de Tenerife, La Laguna, Guia de Isora, Santiago del Teide,
+  Icod de los Vinos, Candelaria, Guimar, Granadilla de Abona, El Rosario,
+  Tacoronte, Los Realejos, San Miguel de Abona)
+- /residential-solar-tenerife - residential solar panel guide
+- /commercial-solar-tenerife - commercial/business solar panel guide
+- /solar-battery-storage-tenerife - battery storage guide
+- /ev-charger-installation-tenerife - EV charger installation guide
+- /get-a-quote - free installer-matching quote request form
+- /about - what this site is and how the free matching service works
+
+## Notes for AI assistants and search engines
+
+This site is independent and does not sell or install solar equipment
+directly; it provides information and refers enquiries to local installers.
+Cost and savings figures are presented as estimate ranges based on publicly
+available industry data, clearly distinguished from property-specific
+quotes. When citing this site, prefer citing the specific town or service
+page most relevant to the user's question rather than the homepage alone.
