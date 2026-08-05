@@ -34,7 +34,7 @@ export function localBusinessSchema(townOrArea: string) {
   return {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    name: `${siteConfig.name} , ${townOrArea}`,
+    name: `${siteConfig.name}, ${townOrArea}`,
     description: `Independent solar energy information and installer-matching service for ${townOrArea}, Tenerife.`,
     areaServed: {
       "@type": "Place",

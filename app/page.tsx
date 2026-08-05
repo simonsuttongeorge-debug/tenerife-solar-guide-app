@@ -88,7 +88,7 @@ export default function HomePage() {
             <div className="rounded-xl2 border border-deep-100 p-5">
               <p className="font-semibold text-deep-800 mb-1">Grants &amp; tax deductions for solar</p>
               <p>
-                Self-consumption installations can qualify for {siteConfig.islandFacts.solarIncentives} . 
+                Self-consumption installations can qualify for {siteConfig.islandFacts.solarIncentives},
                 on top of the savings from lower bills. Funding windows and exact rates change
                 year to year, so always confirm what's currently available with your installer.
               </p>

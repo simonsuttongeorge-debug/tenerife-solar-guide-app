@@ -10,7 +10,7 @@ export const islandFaqs: FAQItem[] = [
   },
   {
     q: "How long does it take for solar panels to pay for themselves in Tenerife?",
-    a: "Most residential installations in Tenerife pay back in 5–7 years, making it one of the fastest-payback provinces in Spain. That's thanks to over 2,800 hours of sunshine a year and electricity prices of €0.20–0.28/kWh (island grids are isolated and more expensive than the mainland) . Plus available IRPF tax deductions and IBI reductions specifically for self-consumption installations can shorten payback further. Panels themselves are typically warrantied for 25 years, so most of that lifespan is pure savings after payback.",
+    a: "Most residential installations in Tenerife pay back in 5–7 years, making it one of the fastest-payback provinces in Spain. That's thanks to over 2,800 hours of sunshine a year and electricity prices of €0.20–0.28/kWh (island grids are isolated and more expensive than the mainland). Available IRPF tax deductions and IBI reductions specifically for self-consumption installations can shorten payback further. Panels themselves are typically warrantied for 25 years, so most of that lifespan is pure savings after payback.",
   },
   {
     q: "How much can I save on my electricity bill with solar panels?",

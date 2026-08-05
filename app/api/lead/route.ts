@@ -51,7 +51,7 @@ Submitted: ${new Date().toISOString()}
 
       // The Resend SDK doesn't always throw on API-level failures (e.g. an
       // unverified sending domain, or a recipient restriction on a free-tier
-      // account) , it can instead return { error } while still resolving
+      // account). It can instead return { error } while still resolving
       // successfully. Without this check, a rejected email would silently
       // look like a success to both this server and the visitor's browser.
       if (error) {
