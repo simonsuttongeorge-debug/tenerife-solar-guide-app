@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { siteConfig } from "@/content/siteConfig";
 import { JsonLd, organizationSchema } from "@/lib/schema";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
@@ -35,6 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Header />
         <main>{children}</main>
         <Footer />
+        <GoogleAnalytics gaId="G-RR02FPL7GH" />
       </body>
     </html>
   );

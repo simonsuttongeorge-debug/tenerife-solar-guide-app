@@ -17,10 +17,11 @@ export default function AboutPage() {
       </h1>
       <div className="mt-6 space-y-4 text-deep-600 leading-relaxed">
         <p>
-          The Tenerife Solar Guide is an independent information site built to answer, in one
-          place and to a high standard, the questions people actually ask before installing
-          solar panels, battery storage or an EV charger in Tenerife. Broken down town by town,
-          because costs, sun exposure and permit rules genuinely differ across the island.
+          The Tenerife Solar Guide is an independent information site, set up by Simon Sutton
+          George, a Tenerife-based property professional, built to answer, in one place and to
+          a high standard, the questions people actually ask before installing solar panels,
+          battery storage or an EV charger in Tenerife. Broken down town by town, because
+          costs, sun exposure and permit rules genuinely differ across the island.
         </p>
         <p>
           We're not a solar installer. We're a free matching service: tell us about your
